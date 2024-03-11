@@ -6,31 +6,9 @@ CMakeScripts/
 Makefile
 *.make
 
-# Dossiers build et out générés par CMake/Visual Studio
+# Dossiers build et out gï¿½nï¿½rï¿½s par CMake/Visual Studio
 build/
 out/
 
-# Dossier .vs pour les configurations spécifiques à Visual Studio
+# Dossier .vs pour les configurations spï¿½cifiques ï¿½ Visual Studio
 .vs/
-
-# Fichiers binaires, intermédiaires et de package
-Debug/
-Release/
-x64/
-x86/
-*.exe
-*.dll
-*.so
-*.dylib
-*.lib
-*.pdb
-*.exp
-*.ilk
-*.out
-*.iobj
-*.ipdb
-*.rsp
-*.obj
-*.o
-*.a
-*.app
