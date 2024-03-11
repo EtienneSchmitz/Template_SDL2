@@ -1,11 +1,36 @@
-CMakeLists.txt.user
+# Fichiers de cache CMake
 CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
+CMakeFiles/
 cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
+CMakeScripts/
+Makefile
+*.make
+
+# Dossiers build et out générés par CMake/Visual Studio
+build/
+out/
+
+# Dossier .vs pour les configurations spécifiques à Visual Studio
+.vs/
+
+# Fichiers binaires, intermédiaires et de package
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.pdb
+*.exp
+*.ilk
+*.out
+*.iobj
+*.ipdb
+*.rsp
+*.obj
+*.o
+*.a
+*.app
