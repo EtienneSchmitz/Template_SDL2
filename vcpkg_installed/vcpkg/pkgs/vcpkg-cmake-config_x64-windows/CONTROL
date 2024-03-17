@@ -1,0 +1,6 @@
+Package: vcpkg-cmake-config
+Version: 2022-02-06
+Port-Version: 1
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 3c6499288d4582244108a1a6906a4e61f63ed4869672d166c739af79ba83ce62

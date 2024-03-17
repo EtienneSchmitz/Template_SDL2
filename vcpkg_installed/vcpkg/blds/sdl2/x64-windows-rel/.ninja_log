@@ -1,0 +1,357 @@
+# ninja log v5
+46	342	7323895987746118	include/SDL2/SDL.h	86b7182b702b589
+46	342	7323895987746118	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL.h	86b7182b702b589
+59	410	7323895988375492	include/SDL2/SDL_assert.h	6e721ed384599aac
+59	410	7323895988375492	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_assert.h	6e721ed384599aac
+72	450	7323895989000879	include/SDL2/SDL_atomic.h	db6c8ce032087f28
+72	450	7323895989000879	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_atomic.h	db6c8ce032087f28
+85	481	7323895989318056	include/SDL2/SDL_audio.h	8ba760369fa08ee7
+85	481	7323895989318056	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_audio.h	8ba760369fa08ee7
+116	517	7323895989076264	include/SDL2/SDL_bits.h	24de27a7ea8e4166
+116	517	7323895989076264	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_bits.h	24de27a7ea8e4166
+136	561	7323895989943032	include/SDL2/SDL_blendmode.h	cd5c7352b5fa7937
+136	561	7323895989943032	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_blendmode.h	cd5c7352b5fa7937
+171	587	7323895989786805	include/SDL2/SDL_clipboard.h	2520fa7abbf81698
+171	587	7323895989786805	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_clipboard.h	2520fa7abbf81698
+198	629	7323895990103394	include/SDL2/SDL_copying.h	32310fdeecfcfb0f
+198	629	7323895990103394	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_copying.h	32310fdeecfcfb0f
+254	655	7323895990572369	include/SDL2/SDL_cpuinfo.h	a15888fa02eeb770
+254	655	7323895990572369	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_cpuinfo.h	a15888fa02eeb770
+354	674	7323895991081338	include/SDL2/SDL_egl.h	cc0e265cff68d572
+354	674	7323895991081338	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_egl.h	cc0e265cff68d572
+411	696	7323895991358073	include/SDL2/SDL_endian.h	2afd3f42c1995b0e
+411	696	7323895991358073	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_endian.h	2afd3f42c1995b0e
+452	735	7323895991826779	include/SDL2/SDL_error.h	9353d52d2aa55baf
+452	735	7323895991826779	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_error.h	9353d52d2aa55baf
+482	855	7323895991826779	include/SDL2/SDL_events.h	f3db3b756034761
+482	855	7323895991826779	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_events.h	f3db3b756034761
+517	900	7323895992612337	include/SDL2/SDL_filesystem.h	2737d0326123a7ee
+517	900	7323895992612337	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_filesystem.h	2737d0326123a7ee
+561	972	7323895993086223	include/SDL2/SDL_gamecontroller.h	862c4dd7c3c4b9df
+561	972	7323895993086223	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_gamecontroller.h	862c4dd7c3c4b9df
+597	995	7323895994652237	include/SDL2/SDL_gesture.h	4b760d54959e321c
+597	995	7323895994652237	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_gesture.h	4b760d54959e321c
+630	1017	7323895994808495	include/SDL2/SDL_guid.h	d9c91eee68177ae8
+630	1017	7323895994808495	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_guid.h	d9c91eee68177ae8
+656	1049	7323895994652237	include/SDL2/SDL_haptic.h	7d7095ab6d017a2
+656	1049	7323895994652237	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_haptic.h	7d7095ab6d017a2
+675	1087	7323895995125113	include/SDL2/SDL_hidapi.h	106dbdf4046b643f
+675	1087	7323895995125113	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_hidapi.h	106dbdf4046b643f
+696	1105	7323895996223227	include/SDL2/SDL_hints.h	e5d551039e3a29f2
+696	1105	7323895996223227	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_hints.h	e5d551039e3a29f2
+736	1124	7323895995906562	include/SDL2/SDL_joystick.h	4fc020fc2bb8c530
+736	1124	7323895995906562	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_joystick.h	4fc020fc2bb8c530
+862	1216	7323895996223227	include/SDL2/SDL_keyboard.h	c72155e76fc6d51e
+862	1216	7323895996223227	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_keyboard.h	c72155e76fc6d51e
+901	1234	7323895996535923	include/SDL2/SDL_keycode.h	ae057485bd70f73e
+901	1234	7323895996535923	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_keycode.h	ae057485bd70f73e
+972	1268	7323895996692165	include/SDL2/SDL_loadso.h	7d967dee7764c17e
+972	1268	7323895996692165	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_loadso.h	7d967dee7764c17e
+995	1305	7323895997321492	include/SDL2/SDL_locale.h	cb9d59a7d1da46
+995	1305	7323895997321492	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_locale.h	cb9d59a7d1da46
+1018	1326	7323895997477736	include/SDL2/SDL_log.h	d82af6cf68b702a4
+1018	1326	7323895997477736	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_log.h	d82af6cf68b702a4
+1049	1349	7323895998106889	include/SDL2/SDL_main.h	6ac1629f35b0d39
+1049	1349	7323895998106889	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_main.h	6ac1629f35b0d39
+1087	1367	7323895998419562	include/SDL2/SDL_messagebox.h	9807ad22fc982799
+1087	1367	7323895998419562	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_messagebox.h	9807ad22fc982799
+1105	1383	7323895998575817	include/SDL2/SDL_metal.h	6ec2bac3b0008ade
+1105	1383	7323895998575817	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_metal.h	6ec2bac3b0008ade
+1124	1556	7323895999673919	include/SDL2/SDL_misc.h	dea7ac12da3a1213
+1124	1556	7323895999673919	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_misc.h	dea7ac12da3a1213
+1217	1608	7323895999830171	include/SDL2/SDL_mouse.h	a3b5bb587f7d31f9
+1217	1608	7323895999830171	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_mouse.h	a3b5bb587f7d31f9
+1235	1641	7323896000928317	include/SDL2/SDL_mutex.h	81bc2994aed72163
+1235	1641	7323896000928317	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_mutex.h	81bc2994aed72163
+1268	1681	7323896001244911	include/SDL2/SDL_name.h	30fc1e71da888a1a
+1268	1681	7323896001244911	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_name.h	30fc1e71da888a1a
+1305	1702	7323896001557599	include/SDL2/SDL_opengl.h	33b00a69c41b03a2
+1305	1702	7323896001557599	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengl.h	33b00a69c41b03a2
+1349	1720	7323896001401343	include/SDL2/SDL_opengles.h	1f93597814de5e55
+1349	1720	7323896001401343	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengles.h	1f93597814de5e55
+1327	1737	7323896001870127	include/SDL2/SDL_opengl_glext.h	968689cc7a09482c
+1327	1737	7323896001870127	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengl_glext.h	968689cc7a09482c
+1367	1777	7323896002343198	include/SDL2/SDL_opengles2.h	f25cdec3f68b3d85
+1367	1777	7323896002343198	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengles2.h	f25cdec3f68b3d85
+1383	1844	7323896002186760	include/SDL2/SDL_opengles2_gl2.h	befa1f72562b44fb
+1383	1844	7323896002186760	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengles2_gl2.h	befa1f72562b44fb
+1556	1869	7323896003285189	include/SDL2/SDL_opengles2_gl2ext.h	c5711d0e4a1821e9
+1556	1869	7323896003285189	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengles2_gl2ext.h	c5711d0e4a1821e9
+1608	1899	7323896003441435	include/SDL2/SDL_opengles2_gl2platform.h	36b1caf650af4f89
+1608	1899	7323896003441435	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengles2_gl2platform.h	36b1caf650af4f89
+1641	1985	7323896004539480	include/SDL2/SDL_opengles2_khrplatform.h	20d563159ddcc8e2
+1641	1985	7323896004539480	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengles2_khrplatform.h	20d563159ddcc8e2
+1702	2024	7323896004852000	include/SDL2/SDL_platform.h	c7153ac1dccf4425
+1702	2024	7323896004852000	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_platform.h	c7153ac1dccf4425
+1682	2042	7323896005008213	include/SDL2/SDL_pixels.h	67f49c578fc95ef2
+1682	2042	7323896005008213	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_pixels.h	67f49c578fc95ef2
+1738	2065	7323896005325259	include/SDL2/SDL_quit.h	8f8d1cdb38a7d73e
+1738	2065	7323896005325259	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_quit.h	8f8d1cdb38a7d73e
+1721	2102	7323896005168684	include/SDL2/SDL_power.h	1981888974e11bd6
+1721	2102	7323896005168684	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_power.h	1981888974e11bd6
+1845	2153	7323896005950127	include/SDL2/SDL_render.h	a8fb302adfa01e7b
+1845	2153	7323896005950127	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_render.h	a8fb302adfa01e7b
+1778	2278	7323896006116701	include/SDL2/SDL_rect.h	87979f9cbce229f4
+1778	2278	7323896006116701	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_rect.h	87979f9cbce229f4
+1869	2332	7323896006579572	include/SDL2/SDL_rwops.h	f9f3e084c467d63f
+1869	2332	7323896006579572	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_rwops.h	f9f3e084c467d63f
+1899	2382	7323896007365348	include/SDL2/SDL_scancode.h	b9b0d96c4f1ce51e
+1899	2382	7323896007365348	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_scancode.h	b9b0d96c4f1ce51e
+2024	2417	7323896007834007	include/SDL2/SDL_shape.h	bb48ecb4060e38e2
+2024	2417	7323896007834007	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_shape.h	bb48ecb4060e38e2
+1985	2435	7323896008150950	include/SDL2/SDL_sensor.h	8e0316969ecef5a2
+1985	2435	7323896008150950	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_sensor.h	8e0316969ecef5a2
+2043	2459	7323896008619977	include/SDL2/SDL_stdinc.h	c8e86f2b8d98e2e1
+2043	2459	7323896008619977	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_stdinc.h	c8e86f2b8d98e2e1
+2065	2527	7323896009561854	include/SDL2/SDL_surface.h	c91e277b73c23974
+2065	2527	7323896009561854	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_surface.h	c91e277b73c23974
+2103	2631	7323896010503706	include/SDL2/SDL_system.h	565a9abf16a3d444
+2103	2631	7323896010503706	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_system.h	565a9abf16a3d444
+2279	2661	7323896010659971	include/SDL2/SDL_test.h	b35f821272d3f328
+2279	2661	7323896010659971	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test.h	b35f821272d3f328
+2154	2726	7323896011601916	include/SDL2/SDL_syswm.h	2772eca209021711
+2154	2726	7323896011601916	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_syswm.h	2772eca209021711
+2333	2757	7323896012125909	include/SDL2/SDL_test_assert.h	5a823ebb22650e21
+2333	2757	7323896012125909	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_assert.h	5a823ebb22650e21
+2418	2813	7323896012543826	include/SDL2/SDL_test_compare.h	1b78d3b1f9336f57
+2418	2813	7323896012543826	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_compare.h	1b78d3b1f9336f57
+2382	2840	7323896013172939	include/SDL2/SDL_test_common.h	87ce7da4849d6d5d
+2382	2840	7323896013172939	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_common.h	87ce7da4849d6d5d
+2436	2872	7323896013485725	include/SDL2/SDL_test_crc32.h	1cd56ea875af6421
+2436	2872	7323896013485725	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_crc32.h	1cd56ea875af6421
+2459	2890	7323896013642003	include/SDL2/SDL_test_font.h	32d2a362736aa307
+2459	2890	7323896013642003	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_font.h	32d2a362736aa307
+2632	2935	7323896014130844	include/SDL2/SDL_test_harness.h	f6ef6ef31cb062c4
+2632	2935	7323896014130844	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_harness.h	f6ef6ef31cb062c4
+2527	2949	7323896014271048	include/SDL2/SDL_test_fuzzer.h	1bd2620c20eaa957
+2527	2949	7323896014271048	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_fuzzer.h	1bd2620c20eaa957
+2727	3094	7323896015838145	include/SDL2/SDL_test_log.h	655e98a61e5a1c7c
+2727	3094	7323896015838145	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_log.h	655e98a61e5a1c7c
+2662	3115	7323896015525692	include/SDL2/SDL_test_images.h	c47b0bf18b1e4a70
+2662	3115	7323896015525692	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_images.h	c47b0bf18b1e4a70
+2758	3143	7323896016311365	include/SDL2/SDL_test_md5.h	396b4b81c22ffd52
+2758	3143	7323896016311365	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_md5.h	396b4b81c22ffd52
+2813	3188	7323896015838145	include/SDL2/SDL_test_memory.h	80e7da65c784cc76
+2813	3188	7323896015838145	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_memory.h	80e7da65c784cc76
+2841	3225	7323896016936209	include/SDL2/SDL_test_random.h	af71a8bbc6bfa788
+2841	3225	7323896016936209	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_random.h	af71a8bbc6bfa788
+2950	3242	7323896017137713	include/SDL2/SDL_types.h	ddb1528a71fe20c4
+2950	3242	7323896017137713	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_types.h	ddb1528a71fe20c4
+2935	3242	7323896017137713	include/SDL2/SDL_touch.h	72e5be50fac09963
+2935	3242	7323896017137713	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_touch.h	72e5be50fac09963
+2873	3243	7323896017409290	include/SDL2/SDL_thread.h	2e84a35f54395196
+2873	3243	7323896017409290	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_thread.h	2e84a35f54395196
+2890	3247	7323896017878022	include/SDL2/SDL_timer.h	dc526e70fa796d34
+2890	3247	7323896017878022	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_timer.h	dc526e70fa796d34
+3095	3292	7323896018507295	include/SDL2/SDL_version.h	428078c7c5aaf973
+3095	3292	7323896018507295	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_version.h	428078c7c5aaf973
+3115	3341	7323896018976104	include/SDL2/SDL_video.h	561590906c9d6031
+3115	3341	7323896018976104	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_video.h	561590906c9d6031
+3143	3345	7323896018976104	include/SDL2/SDL_vulkan.h	81ae3003b2a2ded
+3143	3345	7323896018976104	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_vulkan.h	81ae3003b2a2ded
+3188	3380	7323896019449140	include/SDL2/begin_code.h	106f8f231f6fd094
+3188	3380	7323896019449140	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/begin_code.h	106f8f231f6fd094
+3226	3383	7323896019449140	include/SDL2/close_code.h	5a626492af709a81
+3226	3383	7323896019449140	C:/Users/Etienne SCHMITZ/OneDrive - ESME/Documents/Dévelopement/Template_SDL2/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/close_code.h	5a626492af709a81
+3444	4977	7323896035447849	CMakeFiles/SDL2.dir/src/SDL_guid.c.obj	8c0229d19dceb470
+3430	5003	7323896035176244	CMakeFiles/SDL2.dir/src/SDL_error.c.obj	17598e64a3710930
+3457	5039	7323896035760335	CMakeFiles/SDL2.dir/src/SDL_hints.c.obj	a710d6a2797c542b
+3474	5583	7323896041412578	CMakeFiles/SDL2.dir/src/SDL_list.c.obj	97735b856d115139
+3418	5675	7323896041881337	CMakeFiles/SDL2.dir/src/SDL_dataqueue.c.obj	893ce90edf0cb61a
+4988	5884	7323896044232939	CMakeFiles/SDL2.dir/src/SDL_utils.c.obj	5d7d411a9950928f
+3485	6087	7323896046273081	CMakeFiles/SDL2.dir/src/SDL_log.c.obj	35751e9cd409e053
+5003	6102	7323896046742055	CMakeFiles/SDL2.dir/src/atomic/SDL_atomic.c.obj	b7e39ec23a66397
+3384	6215	7323896047214855	CMakeFiles/SDL2main.dir/src/main/windows/SDL_windows_main.c.obj	a11a316c671dfa3d
+3404	6449	7323896049880018	CMakeFiles/SDL2.dir/src/SDL_assert.c.obj	4cd944c7db439b70
+3391	6529	7323896050509327	CMakeFiles/SDL2.dir/src/SDL.c.obj	f5fd252ecc5acd19
+5884	6660	7323896051763619	CMakeFiles/SDL2.dir/src/audio/SDL_audiodev.c.obj	20262ddd74bdbfc
+6216	6811	7323896052705480	SDL2main.lib	3c344fe0f6cce5e4
+5040	7101	7323896056472940	CMakeFiles/SDL2.dir/src/atomic/SDL_spinlock.c.obj	818e4e8c426652c8
+6103	7351	7323896058825695	CMakeFiles/SDL2.dir/src/audio/SDL_mixer.c.obj	afbcb61a5afd2d3a
+6087	8222	7323896066355341	CMakeFiles/SDL2.dir/src/audio/SDL_audiotypecvt.c.obj	873aa2b29c1e74a8
+6811	8636	7323896071691231	CMakeFiles/SDL2.dir/src/events/SDL_clipboardevents.c.obj	d0ad264812f68813
+6450	8668	7323896070905523	CMakeFiles/SDL2.dir/src/audio/SDL_wave.c.obj	d11f347b997c3218
+5675	8688	7323896072320353	CMakeFiles/SDL2.dir/src/audio/SDL_audiocvt.c.obj	3b318a6b2b60fb8d
+6530	8963	7323896075141892	CMakeFiles/SDL2.dir/src/cpuinfo/SDL_cpuinfo.c.obj	63bff55cab6c7e56
+7102	8975	7323896075302229	CMakeFiles/SDL2.dir/src/events/SDL_displayevents.c.obj	b2e636900c52fd24
+5585	9011	7323896075614924	CMakeFiles/SDL2.dir/src/audio/SDL_audio.c.obj	4c3c818dcbed05a1
+7352	9426	7323896079377175	CMakeFiles/SDL2.dir/src/events/SDL_dropevents.c.obj	7e1ce698af3d6f0c
+8689	9439	7323896079846177	CMakeFiles/SDL2.dir/src/events/SDL_keysym_to_scancode.c.obj	3dd968d30705ce8b
+9012	9689	7323896082515414	CMakeFiles/SDL2.dir/src/events/SDL_scancode_tables.c.obj	e9978b48d8686410
+8669	10169	7323896087064048	CMakeFiles/SDL2.dir/src/events/SDL_keyboard.c.obj	c0e93da2463c5811
+9690	10558	7323896090045906	CMakeFiles/SDL2.dir/src/events/imKStoUCS.c.obj	9a422ff651def016
+8975	10580	7323896090518939	CMakeFiles/SDL2.dir/src/events/SDL_quit.c.obj	b56d2f93acf8436b
+9440	10953	7323896093344293	CMakeFiles/SDL2.dir/src/events/SDL_windowevents.c.obj	5fcf9cdff273e865
+8636	10986	7323896094442453	CMakeFiles/SDL2.dir/src/events/SDL_gesture.c.obj	4a681afbc2cd7707
+9426	11286	7323896098361202	CMakeFiles/SDL2.dir/src/events/SDL_touch.c.obj	48a71fac6c0e90dc
+8223	11865	7323896103696254	CMakeFiles/SDL2.dir/src/events/SDL_events.c.obj	4834e3c686af73d1
+8963	12034	7323896105106774	CMakeFiles/SDL2.dir/src/events/SDL_mouse.c.obj	8160fe78f91fad0e
+10559	12118	7323896106521854	CMakeFiles/SDL2.dir/src/haptic/SDL_haptic.c.obj	b55911621d7dc3d9
+10169	12626	7323896111543418	CMakeFiles/SDL2.dir/src/file/SDL_rwops.c.obj	616158e6fa380c91
+12035	12929	7323896114988780	CMakeFiles/SDL2.dir/src/libm/e_atan2.c.obj	edc8f01470d5b35c
+11866	12941	7323896114832412	CMakeFiles/SDL2.dir/src/joystick/controller_type.c.obj	1bf8e59cbe8f7fa6
+12118	13426	7323896119068994	CMakeFiles/SDL2.dir/src/libm/e_exp.c.obj	dc5aff69da700575
+10954	14419	7323896129112614	CMakeFiles/SDL2.dir/src/joystick/SDL_gamecontroller.c.obj	50573e003be3897b
+12626	14613	7323896128397119	CMakeFiles/SDL2.dir/src/libm/e_fmod.c.obj	6b2bd8f8b74011ac
+11286	14627	7323896129898335	CMakeFiles/SDL2.dir/src/joystick/SDL_steam_virtual_gamepad.c.obj	a8041fe49e5ec427
+10987	14706	7323896131938453	CMakeFiles/SDL2.dir/src/joystick/SDL_joystick.c.obj	2501a292017c7bb8
+12942	14747	7323896132875174	CMakeFiles/SDL2.dir/src/libm/e_log10.c.obj	18d2682c6106af34
+6661	14922	7323896134285728	CMakeFiles/SDL2.dir/src/dynapi/SDL_dynapi.c.obj	fef8c0823c6a9d54
+10581	14939	7323896134446219	CMakeFiles/SDL2.dir/src/hidapi/SDL_hidapi.c.obj	109d5a7a8c3a2ebb
+12930	15204	7323896137267586	CMakeFiles/SDL2.dir/src/libm/e_log.c.obj	a69d5cc2f7a6ad4e
+13426	15402	7323896139307441	CMakeFiles/SDL2.dir/src/libm/e_pow.c.obj	23c5bcadb88740f2
+14614	15584	7323896141191055	CMakeFiles/SDL2.dir/src/libm/e_sqrt.c.obj	720bf3bc1fea1ad5
+14420	15604	7323896141191055	CMakeFiles/SDL2.dir/src/libm/e_rem_pio2.c.obj	f242895301fbd53c
+14747	15963	7323896144801860	CMakeFiles/SDL2.dir/src/libm/k_sin.c.obj	dda8f79f5265d16b
+14940	15978	7323896144801860	CMakeFiles/SDL2.dir/src/libm/s_atan.c.obj	3ccd07cae4e9e180
+14627	15993	7323896144958094	CMakeFiles/SDL2.dir/src/libm/k_cos.c.obj	c5307677f75d1954
+14923	16019	7323896145743546	CMakeFiles/SDL2.dir/src/libm/k_tan.c.obj	6d22466aae0b63d6
+15204	16341	7323896148881717	CMakeFiles/SDL2.dir/src/libm/s_copysign.c.obj	21524d611a6ece33
+15403	16485	7323896150447595	CMakeFiles/SDL2.dir/src/libm/s_cos.c.obj	99365407c8a3ce4c
+15585	16718	7323896152487630	CMakeFiles/SDL2.dir/src/libm/s_fabs.c.obj	8df3c96639bd4159
+15604	16862	7323896154210861	CMakeFiles/SDL2.dir/src/libm/s_floor.c.obj	5eb37d786e2df9ef
+15964	16887	7323896154367100	CMakeFiles/SDL2.dir/src/libm/s_scalbn.c.obj	7367f457d6424feb
+15994	16918	7323896154367100	CMakeFiles/SDL2.dir/src/libm/s_tan.c.obj	45c82719626309e
+15978	16999	7323896155152793	CMakeFiles/SDL2.dir/src/libm/s_sin.c.obj	3b9f7b35c2a8b47c
+16020	17027	7323896155152793	CMakeFiles/SDL2.dir/src/locale/SDL_locale.c.obj	7f4e19d5d4d12a7c
+14707	17111	7323896156462364	CMakeFiles/SDL2.dir/src/libm/k_rem_pio2.c.obj	c473c07c925957ca
+16485	17278	7323896158134928	CMakeFiles/SDL2.dir/src/power/SDL_power.c.obj	71aa998227d4d041
+16341	17311	7323896158134928	CMakeFiles/SDL2.dir/src/misc/SDL_url.c.obj	feeb4c9142ae8683
+16718	17755	7323896163000764	CMakeFiles/SDL2.dir/src/render/SDL_d3dmath.c.obj	294cb4036b377b45
+16887	18304	7323896168646345	CMakeFiles/SDL2.dir/src/render/SDL_yuv_sw.c.obj	6a7e88cb421b466a
+16999	20521	7323896190611284	CMakeFiles/SDL2.dir/src/render/direct3d/SDL_shaders_d3d.c.obj	3d4c753586d0058f
+17111	20828	7323896192963727	CMakeFiles/SDL2.dir/src/render/direct3d11/SDL_shaders_d3d11.c.obj	53fa24012bcd654d
+20522	21552	7323896199712107	CMakeFiles/SDL2.dir/src/render/opengles/SDL_render_gles.c.obj	fdbc2f02cc9a87df
+16863	21765	7323896201752390	CMakeFiles/SDL2.dir/src/render/SDL_render.c.obj	e00d092136e95e7c
+18305	22495	7323896210544960	CMakeFiles/SDL2.dir/src/render/opengl/SDL_shaders_gl.c.obj	fa175d98b574cc24
+17311	22507	7323896210544960	CMakeFiles/SDL2.dir/src/render/direct3d12/SDL_shaders_d3d12.c.obj	99780fda315e0546
+17279	22542	7323896210861684	CMakeFiles/SDL2.dir/src/render/direct3d12/SDL_render_d3d12.c.obj	3546b84ee5f0a597
+16918	22554	7323896210585106	CMakeFiles/SDL2.dir/src/render/direct3d/SDL_render_d3d.c.obj	6c0a899437a5062
+17757	22620	7323896210705238	CMakeFiles/SDL2.dir/src/render/opengl/SDL_render_gl.c.obj	fd8485123c4614c3
+17028	22659	7323896210585106	CMakeFiles/SDL2.dir/src/render/direct3d11/SDL_render_d3d11.c.obj	a0dbb333f2ff9b87
+21766	23237	7323896217293814	CMakeFiles/SDL2.dir/src/render/ps2/SDL_render_ps2.c.obj	1416fd9cebc25370
+22496	23250	7323896218079408	CMakeFiles/SDL2.dir/src/render/psp/SDL_render_psp.c.obj	bd91db7ea518ef73
+20829	23733	7323896222472080	CMakeFiles/SDL2.dir/src/render/opengles2/SDL_render_gles2.c.obj	90c410be89a30146
+22659	23854	7323896223730711	CMakeFiles/SDL2.dir/src/render/software/SDL_drawpoint.c.obj	b5b0fdb67d559ada
+21552	23901	7323896223413951	CMakeFiles/SDL2.dir/src/render/opengles2/SDL_shaders_gles2.c.obj	ef7cbcd86dfd921
+22555	24161	7323896225927162	CMakeFiles/SDL2.dir/src/render/software/SDL_blendpoint.c.obj	c3623cb54c3e9b67
+23902	24798	7323896232984008	CMakeFiles/SDL2.dir/src/render/vitagxm/SDL_render_vita_gxm_memory.c.obj	8ecdb9acd994af1
+23855	24827	7323896231412793	CMakeFiles/SDL2.dir/src/render/vitagxm/SDL_render_vita_gxm.c.obj	d36b07f4e73a98e5
+22621	25009	7323896234641107	CMakeFiles/SDL2.dir/src/render/software/SDL_drawline.c.obj	d84ab3a307b917d8
+24162	25481	7323896238651382	CMakeFiles/SDL2.dir/src/render/vitagxm/SDL_render_vita_gxm_tools.c.obj	c5a5de01742fffcf
+23238	25829	7323896240046127	CMakeFiles/SDL2.dir/src/render/software/SDL_render_sw.c.obj	77e33c618fbd6d0d
+25009	25935	7323896244438906	CMakeFiles/SDL2.dir/src/stdlib/SDL_crc32.c.obj	255c2ba50704135d
+24828	26631	7323896249143084	CMakeFiles/SDL2.dir/src/stdlib/SDL_crc16.c.obj	518953a6e8d2dfd4
+24798	27425	7323896259343572	CMakeFiles/SDL2.dir/src/sensor/SDL_sensor.c.obj	498fbefe0922524
+25936	27454	7323896257932874	CMakeFiles/SDL2.dir/src/stdlib/SDL_malloc.c.obj	6064aed78e1870a7
+26631	27726	7323896261706482	CMakeFiles/SDL2.dir/src/stdlib/SDL_mslibc.c.obj	b2a3d793e167daba
+25829	27837	7323896263710450	CMakeFiles/SDL2.dir/src/stdlib/SDL_iconv.c.obj	97fcffe08f9ea2aa
+23251	27929	7323896264209509	CMakeFiles/SDL2.dir/src/render/software/SDL_rotate.c.obj	3a62b4983b6dedfb
+23734	27997	7323896265307732	CMakeFiles/SDL2.dir/src/render/software/SDL_triangle.c.obj	a3181ae50af207ab
+22508	28352	7323896268722160	CMakeFiles/SDL2.dir/src/render/software/SDL_blendfillrect.c.obj	31871e85d927b2d6
+27455	28563	7323896271266288	CMakeFiles/SDL2.dir/src/stdlib/SDL_stdlib.c.obj	b9e3bb6b2e275779
+27426	28624	7323896271578823	CMakeFiles/SDL2.dir/src/stdlib/SDL_qsort.c.obj	c4902fd46c78dbae
+25481	28650	7323896272051868	CMakeFiles/SDL2.dir/src/stdlib/SDL_getenv.c.obj	63dcfc375c71963c
+27838	28743	7323896272732010	CMakeFiles/SDL2.dir/src/stdlib/SDL_strtokr.c.obj	67fc476a85454a50
+27727	29798	7323896282096093	CMakeFiles/SDL2.dir/src/stdlib/SDL_string.c.obj	4742b346adf96e3d
+22542	29812	7323896282252360	CMakeFiles/SDL2.dir/src/render/software/SDL_blendline.c.obj	d74e3940262a7660
+27997	31183	7323896291505252	CMakeFiles/SDL2.dir/src/timer/SDL_timer.c.obj	ef49beda16c83dc9
+27930	31803	7323896291349021	CMakeFiles/SDL2.dir/src/thread/SDL_thread.c.obj	2333de1df5e6943
+28563	31823	7323896298259821	CMakeFiles/SDL2.dir/src/video/SDL_blit.c.obj	394a3ba6642c5d56
+28624	34223	7323896326357359	CMakeFiles/SDL2.dir/src/video/SDL_blit_0.c.obj	45212d79c037ef47
+28651	34977	7323896328397575	CMakeFiles/SDL2.dir/src/video/SDL_blit_1.c.obj	d4e32f0f19a17999
+28744	34993	7323896331223342	CMakeFiles/SDL2.dir/src/video/SDL_blit_A.c.obj	95d61a807f126f51
+28353	36336	7323896348012271	CMakeFiles/SDL2.dir/src/video/SDL_RLEaccel.c.obj	ace1190fcb33dc6e
+31824	36591	7323896348324955	CMakeFiles/SDL2.dir/src/video/SDL_bmp.c.obj	46373646cb1ca150
+31184	36678	7323896348637477	CMakeFiles/SDL2.dir/src/video/SDL_blit_copy.c.obj	2177f24ff01fae7f
+34994	36729	7323896350998673	CMakeFiles/SDL2.dir/src/video/SDL_fillrect.c.obj	8a10f886cbe54acc
+29813	37017	7323896354762143	CMakeFiles/SDL2.dir/src/video/SDL_blit_auto.c.obj	be47d2219f370312
+31803	37135	7323896355704117	CMakeFiles/SDL2.dir/src/video/SDL_blit_slow.c.obj	84fe75643d1096e0
+34224	37715	7323896360890004	CMakeFiles/SDL2.dir/src/video/SDL_clipboard.c.obj	88970acb1d44ab02
+37716	41468	7323896398423734	CMakeFiles/SDL2.dir/src/video/SDL_vulkan_utils.c.obj	10d672e54807d8f5
+36592	41724	7323896397508108	CMakeFiles/SDL2.dir/src/video/SDL_rect.c.obj	c0b4cc1843d41ca
+36337	41860	7323896400654484	CMakeFiles/SDL2.dir/src/video/SDL_pixels.c.obj	b82cfea24b28f5a5
+36730	42008	7323896395367122	CMakeFiles/SDL2.dir/src/video/SDL_stretch.c.obj	f687479257c5a2f6
+36679	42822	7323896408610286	CMakeFiles/SDL2.dir/src/video/SDL_shape.c.obj	a49b17a55d134188
+37018	43688	7323896420066958	CMakeFiles/SDL2.dir/src/video/SDL_surface.c.obj	14ead20115565c3c
+29799	44441	7323896427656193	CMakeFiles/SDL2.dir/src/video/SDL_blit_N.c.obj	7449542b1e426086
+34978	46083	7323896445648427	CMakeFiles/SDL2.dir/src/video/SDL_egl.c.obj	e0297fa8816ceec8
+41725	46935	7323896454003355	CMakeFiles/SDL2.dir/src/video/yuv2rgb/yuv_rgb_lsx.c.obj	686e251c7be38586
+42823	47564	7323896458350745	CMakeFiles/SDL2.dir/src/audio/dummy/SDL_dummyaudio.c.obj	c008cc7aebf57bc
+44452	47970	7323896462702748	CMakeFiles/SDL2.dir/src/joystick/virtual/SDL_virtualjoystick.c.obj	ba83c084e7ca509a
+43689	48142	7323896464554249	CMakeFiles/SDL2.dir/src/audio/disk/SDL_diskaudio.c.obj	46f104440e95e79a
+46936	49017	7323896475764810	CMakeFiles/SDL2.dir/src/video/dummy/SDL_nullframebuffer.c.obj	6ea7ad22c8dda069
+42059	49041	7323896476050191	CMakeFiles/SDL2.dir/src/video/yuv2rgb/yuv_rgb_std.c.obj	849962301423122e
+46084	49073	7323896473974088	CMakeFiles/SDL2.dir/src/video/dummy/SDL_nullevents.c.obj	259b29f88d9c158b
+37136	49242	7323896476890383	CMakeFiles/SDL2.dir/src/video/SDL_video.c.obj	26bcc8292f8143bf
+41861	49711	7323896482332873	CMakeFiles/SDL2.dir/src/video/yuv2rgb/yuv_rgb_sse.c.obj	21c290bdb8ad3334
+48143	50083	7323896486336394	CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenframebuffer.c.obj	400fd841b5da1ceb
+47564	50142	7323896487151777	CMakeFiles/SDL2.dir/src/video/dummy/SDL_nullvideo.c.obj	5dda52c999ddd609
+47970	50558	7323896491203350	CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenevents.c.obj	d1c14f2c6c7d88dc
+49243	50983	7323896495470294	CMakeFiles/SDL2.dir/src/core/windows/SDL_hid.c.obj	bbadd9fad0c6f8a9
+49074	51140	7323896497016020	CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenwindow.c.obj	838c59086a11597f
+49041	51446	7323896499802199	CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenvideo.c.obj	2a22a64090d69f40
+49019	51460	7323896499912509	CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenopengles.c.obj	3e49f8c78f0dfc6e
+41469	51738	7323896502969056	CMakeFiles/SDL2.dir/src/video/SDL_yuv.c.obj	310ac60071b4936a
+50143	52080	7323896506460878	CMakeFiles/SDL2.dir/src/core/windows/SDL_xinput.c.obj	4430e6906523c21c
+50559	52594	7323896510020888	CMakeFiles/SDL2.dir/src/misc/windows/SDL_sysurl.c.obj	9312ae0ed6e671f5
+49714	52860	7323896513823520	CMakeFiles/SDL2.dir/src/core/windows/SDL_immdevice.c.obj	f32b85b2b1affafb
+50083	53888	7323896524487627	CMakeFiles/SDL2.dir/src/core/windows/SDL_windows.c.obj	6dc75e5f65676663
+50983	54130	7323896526958729	CMakeFiles/SDL2.dir/src/audio/winmm/SDL_winmm.c.obj	566bafa3f0391e51
+51140	55002	7323896535569032	CMakeFiles/SDL2.dir/src/audio/directsound/SDL_directsound.c.obj	e1a7ac21006d1f52
+51461	55123	7323896536784548	CMakeFiles/SDL2.dir/src/audio/wasapi/SDL_wasapi_win32.c.obj	3db1656e0b760bde
+51447	55824	7323896543544305	CMakeFiles/SDL2.dir/src/audio/wasapi/SDL_wasapi.c.obj	761cd8748af6f9fd
+51739	56101	7323896546131478	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsclipboard.c.obj	d1ff624126375785
+52595	56780	7323896553270177	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsframebuffer.c.obj	62b5e4300b8adbe6
+52861	59374	7323896578796140	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowskeyboard.c.obj	1bbc4f81e0bc903
+52081	59793	7323896582099219	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsevents.c.obj	88d4998ab8033752
+54130	60583	7323896590535722	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsmodes.c.obj	3a7b38bf01b88fa6
+59375	61110	7323896596327491	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsvulkan.c.obj	613129dbebd3f705
+53888	61307	7323896598349012	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsmessagebox.c.obj	ed91da593e3650e6
+60584	62035	7323896605958907	CMakeFiles/SDL2.dir/src/thread/generic/SDL_syscond.c.obj	de1aa0fd35e2ac7a
+55002	62622	7323896611562487	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsmouse.c.obj	36fd9412e129065c
+55123	63101	7323896616540410	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsopengl.c.obj	d8ba3e31fa271b37
+56108	63167	7323896617100438	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsshape.c.obj	6266369d7a48ef5d
+55827	63271	7323896618066031	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsopengles.c.obj	35bfc335cde8d2c8
+61308	63792	7323896623379169	CMakeFiles/SDL2.dir/src/thread/windows/SDL_sysmutex.c.obj	179105ea3df6da69
+56781	63924	7323896624674632	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsvideo.c.obj	a1f169d04b47755c
+61111	63940	7323896625014918	CMakeFiles/SDL2.dir/src/thread/windows/SDL_syscond_cv.c.obj	3f7447f1b3a389a4
+62035	64324	7323896628497269	CMakeFiles/SDL2.dir/src/thread/windows/SDL_syssem.c.obj	a63718d68e2c767d
+59794	64552	7323896631144416	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowswindow.c.obj	c69c43b882e2c0a6
+62622	64814	7323896633825512	CMakeFiles/SDL2.dir/src/thread/windows/SDL_systhread.c.obj	49f1a9e9e9dab42
+63271	65248	7323896637955634	CMakeFiles/SDL2.dir/src/power/windows/SDL_syspower.c.obj	3c88f27ef940bb8a
+63102	65298	7323896638471169	CMakeFiles/SDL2.dir/src/thread/windows/SDL_systls.c.obj	174f079654aae111
+64552	65516	7323896640056852	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_combined.c.obj	c408aec0fa95a6ed
+63940	65819	7323896643699228	CMakeFiles/SDL2.dir/src/timer/windows/SDL_systimer.c.obj	343a49ce73c5557d
+63792	66124	7323896645580330	CMakeFiles/SDL2.dir/src/locale/windows/SDL_syslocale.c.obj	740fde7cb2fe415d
+63167	66196	7323896647631376	CMakeFiles/SDL2.dir/src/sensor/windows/SDL_windowssensor.c.obj	a6c1e6e8c2c20fbf
+64814	66288	7323896648457054	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_gamecube.c.obj	3c734f3927a12d7e
+64324	66373	7323896649212481	CMakeFiles/SDL2.dir/src/loadso/windows/SDL_sysloadso.c.obj	5f55c4c2a1550f65
+65249	67065	7323896655538599	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_luna.c.obj	534ac0808bdd1f1e
+65299	67137	7323896656914394	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_ps3.c.obj	3e0ed811003f656d
+65517	67739	7323896662887643	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_ps4.c.obj	1e11b849591e5760
+66289	67914	7323896664538867	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_stadia.c.obj	4a978daaa2205f56
+66196	68016	7323896665254566	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_shield.c.obj	6f4e4dfd2b5872a
+65819	68234	7323896667861288	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_ps5.c.obj	921a1c7bbe331a22
+63924	68261	7323896668216668	CMakeFiles/SDL2.dir/src/filesystem/windows/SDL_sysfilesystem.c.obj	b6397a863e41bfdd
+66373	68636	7323896671863360	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_steam.c.obj	c60c89e8b6a58894
+67065	68678	7323896672053654	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_steamdeck.c.obj	64c74a7d5167dbcf
+66124	69142	7323896676551076	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_rumble.c.obj	c1d5a6b91cb5e28b
+67138	69345	7323896678992735	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_switch.c.obj	f7976c25851fa8de
+67914	69622	7323896680984444	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_xbox360.c.obj	1e826d1346d5b40c
+68234	70045	7323896686092972	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_xboxone.c.obj	7519454e4b409540
+68017	70120	7323896686588220	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_xbox360w.c.obj	4a1dd7986026efe8
+67739	70301	7323896688599643	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_wii.c.obj	d2ae1622681d915b
+68262	71800	7323896703574904	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapijoystick.c.obj	4e5ebffffd9032fa
+68637	72333	7323896708638550	CMakeFiles/SDL2.dir/src/joystick/windows/SDL_dinputjoystick.c.obj	f51f0503b35d736a
+71801	72773	7323896713003383	CMakeFiles/SDL2.dir/src/main/windows/version.rc.res	975d2b6e85ff4d2d
+69623	72989	7323896715650157	CMakeFiles/SDL2.dir/src/joystick/windows/SDL_xinputjoystick.c.obj	726a9ca1f553561b
+69346	73086	7323896716355581	CMakeFiles/SDL2.dir/src/joystick/windows/SDL_windowsjoystick.c.obj	688fff5bd428afb8
+70120	73118	7323896716865861	CMakeFiles/SDL2.dir/src/haptic/windows/SDL_windowshaptic.c.obj	539af384c6c4aaab
+70301	73410	7323896719867149	CMakeFiles/SDL2.dir/src/haptic/windows/SDL_xinputhaptic.c.obj	73f1fb36e0c59aeb
+70046	73519	7323896720922663	CMakeFiles/SDL2.dir/src/haptic/windows/SDL_dinputhaptic.c.obj	2d86c801e5408ad9
+69143	75769	7323896743384014	CMakeFiles/SDL2.dir/src/joystick/windows/SDL_windows_gaming_input.c.obj	64da2ba178fdb88
+68679	75865	7323896744317327	CMakeFiles/SDL2.dir/src/joystick/windows/SDL_rawinputjoystick.c.obj	863cd457ca8e3b99
+75865	76844	7323896753450581	SDL2.dll	c03a694f109dc242
+75865	76844	7323896753450581	SDL2.lib	c03a694f109dc242
+76846	78178	0	CMakeFiles/install.util	37e8c36a05d14431

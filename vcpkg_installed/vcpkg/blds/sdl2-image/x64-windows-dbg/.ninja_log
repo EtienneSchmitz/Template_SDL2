@@ -1,0 +1,25 @@
+# ninja log v5
+20	550	7323898265193419	CMakeFiles/SDL2_image.dir/src/IMG_WIC.c.obj	d98ecbfc1b589b3d
+34	2099	7323898280892631	CMakeFiles/SDL2_image.dir/src/IMG_avif.c.obj	c7b9e9f5312fec60
+120	2237	7323898282147079	CMakeFiles/SDL2_image.dir/src/IMG_jpg.c.obj	b0795db5d0e0508
+294	2263	7323898282147079	CMakeFiles/SDL2_image.dir/src/IMG_lbm.c.obj	c7f9849fce389419
+58	2333	7323898282620098	CMakeFiles/SDL2_image.dir/src/IMG_gif.c.obj	e7aa40c640615789
+136	2437	7323898283088887	CMakeFiles/SDL2_image.dir/src/IMG_jxl.c.obj	82bc1829a1533a9a
+335	2490	7323898284030685	CMakeFiles/SDL2_image.dir/src/IMG_pcx.c.obj	ef87583561d60a57
+570	3015	7323898289838091	CMakeFiles/SDL2_image.dir/src/IMG_png.c.obj	af09a996bd4ea915
+9	3032	7323898289994305	CMakeFiles/SDL2_image.dir/src/IMG.c.obj	1e49f6d0d7ac1dd9
+47	3060	7323898290623687	CMakeFiles/SDL2_image.dir/src/IMG_bmp.c.obj	c3773a9ba041c2f
+2264	4084	7323898300817823	CMakeFiles/SDL2_image.dir/src/IMG_stb.c.obj	7c07a820e27b2424
+2439	4393	7323898303955777	CMakeFiles/SDL2_image.dir/src/IMG_tga.c.obj	bc6d23a99b3f5d5c
+2104	4424	7323898304268380	CMakeFiles/SDL2_image.dir/src/IMG_pnm.c.obj	493a1e93e06029f9
+2241	4426	7323898304479787	CMakeFiles/SDL2_image.dir/src/IMG_qoi.c.obj	60984b639ec50a9b
+3016	4660	7323898306308258	CMakeFiles/SDL2_image.dir/src/IMG_webp.c.obj	8bd5fa85d63bfe84
+3033	4691	7323898306937729	CMakeFiles/SDL2_image.dir/src/IMG_xcf.c.obj	7d388f42b93d0606
+2494	4693	7323898307093830	CMakeFiles/SDL2_image.dir/src/IMG_tif.c.obj	329de86299f67f40
+3060	4696	7323898307093830	CMakeFiles/SDL2_image.dir/src/IMG_xpm.c.obj	d8846e7bb671ebdf
+2334	4884	7323898309133809	CMakeFiles/SDL2_image.dir/src/IMG_svg.c.obj	1eb4d9d7167d6434
+4084	5276	7323898312901617	CMakeFiles/SDL2_image.dir/src/IMG_xv.c.obj	1f87d6b7a8a4b159
+4394	5335	7323898313530729	CMakeFiles/SDL2_image.dir/src/version.rc.res	c1602ec02989b5da
+5336	6958	7323898328523117	SDL2_imaged.dll	3f4d1ca9eb5f0c64
+5336	6958	7323898328523117	SDL2_imaged.lib	3f4d1ca9eb5f0c64
+6958	7457	0	CMakeFiles/install.util	89503fa58f7aceb0

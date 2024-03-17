@@ -6,9 +6,12 @@ CMakeScripts/
 Makefile
 *.make
 
-# Dossiers build et out g�n�r�s par CMake/Visual Studio
+# Dossiers build et out générés par CMake/Visual Studio
 build/
 out/
 
 # Dossier .vs pour les configurations sp�cifiques � Visual Studio
 .vs/
+
+# Fichier - vcpkg
+.vcpkg_installed/
