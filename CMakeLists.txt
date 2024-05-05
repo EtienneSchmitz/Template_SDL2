@@ -28,7 +28,9 @@ if(WIN32)
     set(SDL2_TTF_LIBRARIES "${SDL2_TTF_DIR}/lib/x64/SDL2_ttf.lib")
     set(SDL2_TTF_DLL_PATH "${SDL2_TTF_DIR}/lib/x64")
 
-elseif(APPLE)
+else()
+    set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/cmake_modules")
+    
     find_package(SDL2 REQUIRED)
     find_package(SDL2_image REQUIRED)
     find_package(SDL2_mixer REQUIRED)
@@ -48,8 +50,9 @@ set (SOURCES
 
 # Installation de la librarie SDL2
 add_executable(${PROJECT_NAME} ${SOURCES})
+
 target_include_directories(${PROJECT_NAME} PRIVATE 
-    ${SDL2_INCLUDE_DIRS} *
+    ${SDL2_INCLUDE_DIRS}
     ${SDL2_IMAGE_INCLUDE_DIRS}
     ${SDL2_MIXER_INCLUDE_DIRS}
     ${SDL2_TTF_INCLUDE_DIRS}
